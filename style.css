@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+}
+
+.iu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 250px;
+  border-color: antiquewhite;
+  border: 5px solid salmon;
+}
+
+.bp {
+  color: white;
+  text-align: center;
+}
